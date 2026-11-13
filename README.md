@@ -1,2 +1,2 @@
-# NasaSpaceApp_VoyagerII
-Projeto para ohackathon da Nasa 2026
+# NasaSpaceApps_VoyagerII
+Projeto para o hackathon da Nasa 2026
